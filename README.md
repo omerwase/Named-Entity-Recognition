@@ -6,8 +6,8 @@ NER using Hidden Markov Model, Conditional Markov Model and Bidirectional Long S
 
 ### Contents:
 
-* dataprep.py
-* helper.py
+* dataprep.py - contains functions for data preprocessing and extraction
+* helper.py - contains help functions for data processing and evaluation
 * hmm.ipynb
 * conditional_markov_model.ipynb
 * conditional_markov_model_glove.ipynb
